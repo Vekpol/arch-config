@@ -1,0 +1,19 @@
+00:00:00.238776 VirtualBox GUI VM Selector Window 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.238777 Log opened 2020-09-15T16:33:55.532062000Z
+00:00:00.238778 Build Type: release
+00:00:00.238779 OS Product: Linux
+00:00:00.238780 OS Release: 5.8.8-arch1-1
+00:00:00.238780 OS Version: #1 SMP PREEMPT Wed, 09 Sep 2020 18:59:45 +0000
+00:00:00.238793 DMI Product Name: Aspire VX5-591G
+00:00:00.238798 DMI Product Version: V1.06
+00:00:00.238801 Firmware type: UEFI
+00:00:00.239450 Secure Boot: Disabled
+00:00:00.239488 Host RAM: 7824MB (7.6GB) total, 4653MB (4.5GB) available
+00:00:00.239491 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.239491 Process ID: 37267
+00:00:00.239491 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.239527 Qt version: 5.15.1
+00:00:00.259321 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.259344 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.607670 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x24 x 1920x1056
+00:00:00.611927 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x24 x 1920x1056

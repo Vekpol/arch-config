@@ -1,0 +1,21 @@
+# Ignore everything
+/*
+!.gitignore
+
+
+# Except for the files and folders we want to track
+!README.md
+!README.es.md
+!Images
+!.screenshots
+!.bashrc
+!.spectrwm.conf
+!.nvidia-settings-rc
+!.xprofile
+!.config
+!.local
+!.gtk-2.0
+
+
+.local/share/*
+.config/Code/*

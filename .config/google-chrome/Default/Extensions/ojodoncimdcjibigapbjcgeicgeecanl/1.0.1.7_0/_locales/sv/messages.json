@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Skriv in text med hjälp av ett virtuellt tangentbord. Det ger textinmatning bistånd genom att inkludera virtuella tangentbord."
+   },
+   "ext_name": {
+      "message": "Virtual Keyboard"
+   }
+}

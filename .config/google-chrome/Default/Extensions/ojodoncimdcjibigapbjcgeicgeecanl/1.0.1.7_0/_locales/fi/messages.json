@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Kirjoita tekstiä käyttäen virtuaalista näppäimistöä. Se tarjoaa tekstinsyöttöä avusta myös virtuaalisia näppäimistöjä."
+   },
+   "ext_name": {
+      "message": "Virtuaalinen näppäimistö"
+   }
+}

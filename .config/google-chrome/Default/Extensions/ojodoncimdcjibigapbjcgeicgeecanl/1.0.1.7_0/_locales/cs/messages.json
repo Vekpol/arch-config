@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Zadejte text pomocí virtuální klávesnice. Poskytuje vstupní pomoci textu, včetně virtuálních klávesnic."
+   },
+   "ext_name": {
+      "message": "Virtuální klávesnice"
+   }
+}

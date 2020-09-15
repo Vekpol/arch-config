@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Saisir du texte avec un clavier virtuel. Il fournit du texte assistance d'entrée en incluant les claviers virtuels."
+   },
+   "ext_name": {
+      "message": "Clavier virtuel"
+   }
+}

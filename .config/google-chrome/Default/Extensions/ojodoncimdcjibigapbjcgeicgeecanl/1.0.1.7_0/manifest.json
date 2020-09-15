@@ -1,0 +1,21 @@
+{
+   "api_console_project_id": "842403268880",
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://virtualkeyboard.nmsoft.net/?from=cws"
+      },
+      "urls": [ "http://virtualkeyboard.nmsoft.net/?from=cws" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwLNF6eP8VMDwsUzvNkpnc5fMA1e0bbazcGwVtLTG4tQt/A0hY4zVRvHdrStQ9rk7TnWqkzagpYFoYU2LWiWVB5gNXAXzM1G5xFvUbNlOh3YslJ1cWw3Rv+WK0sKoBBg2MeZbtQlg/Sg90LWdpD8Xc/S67nMsbMYRLbu0lfL20/XnniOfnD+KJtVQGZdsphPy8L0M97j6GwVi/bYabGYLxATaRvHGJkcvNN8rFDiQk7qlrRyeuO9L2ygFRIA5dyjqcQLRuaVhX6M6tHfqnxM7pbRjNWnQNsKNTkUBU5BlcywNDVyTbBGjO5pv0y4VAxAo+rHpygrMtUPqSyqXWuPhtQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.7"
+}
