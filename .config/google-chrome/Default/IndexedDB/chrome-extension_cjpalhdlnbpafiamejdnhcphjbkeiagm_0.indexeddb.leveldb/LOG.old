@@ -1,0 +1,5 @@
+2020/09/14-23:17:55.390 8c7 Reusing MANIFEST /home/jesus/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/14-23:17:57.394 d06 Level-0 table #5: started
+2020/09/14-23:17:57.397 d06 Level-0 table #5: 217 bytes OK
+2020/09/14-23:17:57.403 d06 Delete type=0 #3
+2020/09/14-23:17:57.403 d06 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

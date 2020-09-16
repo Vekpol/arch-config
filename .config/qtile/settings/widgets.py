@@ -48,7 +48,7 @@ workspaces = lambda: [
         disable_drag=True
     ),
     separator(),
-    widget.WindowName(**base(fg='focus'), fontsize=14, padding=5),
+    widget.WindowName(**base(fg='color5'), fontsize=14, padding=5),
     separator(),
 ]
 
@@ -89,7 +89,7 @@ primary_widgets = [
 
     powerline('dark', 'color1'),
 
-    widget.Systray(**base(bg='dark', fg='light'), padding=5),
+    widget.Systray(**base(bg='dark'), padding=5),
 
 ]
 
